@@ -1,0 +1,12 @@
+| PatientID | Patient Name     | Medical Condition      | Symptoms                      | Diagnosed Diseases        | Address                                  | Phone Number    |
+| --------- | ---------------- | ---------------------- | ----------------------------- | ------------------------- | ---------------------------------------- | --------------- |
+| P001      | John Doe         | Hypertension           | Headache; Dizziness; Fatigue  | Essential hypertension    | 123 Elm St., Addis Ababa, Ethiopia       | +251 911 123456 |
+| P002      | Jane Smith       | Type 2 Diabetes        | Polyuria; Excessive thirst    | Type 2 diabetes mellitus  | 456 Oak Rd., Addis Ababa, Ethiopia       | +251 911 654321 |
+| P003      | Ali Mohammed     | Asthma                 | Shortness of breath; Wheezing | Asthma                    | 789 Pine Ave., Addis Ababa, Ethiopia     | +251 911 987654 |
+| P004      | Fatima Ahmed     | Migraine               | Throbbing headache; Nausea    | Migraine without aura     | 321 Maple Blvd., Addis Ababa, Ethiopia   | +251 911 112233 |
+| P005      | Samuel Bekele    | Chronic Kidney Disease | Swelling; Fatigue; Itching    | CKD Stage 3               | 654 Cedar St., Addis Ababa, Ethiopia     | +251 911 445566 |
+| P006      | Lulit Tadesse    | Osteoarthritis         | Joint pain; Stiffness         | Knee osteoarthritis       | 987 Birch Ln., Addis Ababa, Ethiopia     | +251 911 778899 |
+| P007      | Michael Gebru    | Depression             | Low mood; Loss of interest    | Major depressive disorder | 159 Spruce Dr., Addis Ababa, Ethiopia    | +251 911 334455 |
+| P008      | Hana Alemu       | Allergic Rhinitis      | Sneezing; Nasal congestion    | Seasonal allergies        | 753 Walnut Rd., Addis Ababa, Ethiopia    | +251 911 667788 |
+| P009      | Bereket Yohannes | Hyperlipidemia         | Often asymptomatic            | High LDL cholesterol      | 852 Poplar St., Addis Ababa, Ethiopia    | +251 911 998877 |
+| P010      | Meron Desta      | Hypothyroidism         | Weight gain; Cold intolerance | Primary hypothyroidism    | 147 Chestnut Ave., Addis Ababa, Ethiopia | +251 911 556677 |
